@@ -1,7 +1,6 @@
-﻿filename	acq_time
+filename	acq_time
 anat/sub-PC227_ses-01_run-1_T1w.nii.gz	1925-01-01T15:24:41.805000
 anat/sub-PC227_ses-01_run-1_T2w.nii.gz	1925-01-01T15:30:34.127500
-dwi/sub-PC227_ses-01_acq-RL_run-1_dwi.nii.gz	1925-01-01T15:44:18.500000
 eeg/sub-PC227_ses-01_task-series_eeg.vhdr	2022-08-26T17:16:54.167358Z
 fmap/sub-PC227_ses-01_acq-LRdwi_dir-ROW_run-1_epi.nii.gz	1925-01-01T15:51:58.722500
 fmap/sub-PC227_ses-01_acq-LRe1_dir-ROW_run-1_epi.nii.gz	1925-01-01T15:43:14.680000
