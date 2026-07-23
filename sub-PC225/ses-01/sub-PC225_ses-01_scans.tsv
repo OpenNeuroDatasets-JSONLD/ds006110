@@ -1,7 +1,6 @@
-﻿filename	acq_time
+filename	acq_time
 anat/sub-PC225_ses-01_run-1_T1w.nii.gz	1925-01-01T09:15:02.070000
 anat/sub-PC225_ses-01_run-1_T2w.nii.gz	1925-01-01T09:20:28.355000
-dwi/sub-PC225_ses-01_acq-RL_run-1_dwi.nii.gz	1925-01-01T09:35:00.725000
 eeg/sub-PC225_ses-01_task-series_eeg.vhdr	2022-08-26T11:16:12.004515Z
 fmap/sub-PC225_ses-01_acq-LRdwi_dir-ROW_run-1_epi.nii.gz	1925-01-01T09:42:42.115000
 fmap/sub-PC225_ses-01_acq-LRe1_dir-ROW_run-1_epi.nii.gz	1925-01-01T09:33:07.257500
