@@ -2,7 +2,6 @@ filename	acq_time
 anat/sub-PC232_ses-01_run-1_T1w.nii.gz	1925-01-01T12:50:46.587500
 anat/sub-PC232_ses-01_run-1_T2w.nii.gz	1925-01-01T12:56:14.942500
 eeg/sub-PC232_ses-01_task-series_eeg.vhdr	2022-08-30T14:47:13.188543Z
-fmap/sub-PC232_ses-01_acq-LRdwi_dir-ROW_run-1_epi.nii.gz	1925-01-01T13:17:49.932500
 fmap/sub-PC232_ses-01_acq-LRe1_dir-ROW_run-1_epi.nii.gz	1925-01-01T13:09:03.042500
 fmap/sub-PC232_ses-01_acq-LRe2_dir-ROW_run-1_epi.nii.gz	1925-01-01T13:09:03.042500
 fmap/sub-PC232_ses-01_acq-LRe3_dir-ROW_run-1_epi.nii.gz	1925-01-01T13:09:03.042500
